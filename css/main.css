@@ -2,9 +2,9 @@
 .btn-primary {
     background-color: #00FAA5;  
     border-color: #00FAA5;  
-    height:auto; 
+    height: auto; 
     font-size: auto; 
-    color:black;  
+    color: black;  
 }
 
 /*bootstrap中巨幕的自定义设置*/
@@ -14,7 +14,7 @@
 	background-size: cover;
  	background-position: center;
   	background-attachment: fixed;
-  	margin-bottom:40px;
+  	margin-bottom: 40px;
   	font-family: Microsoft YaHei;
   }
 
@@ -34,7 +34,7 @@
 }
 
 .blurb_title {
-	text-align:center;  
+	text-align: center;  
 	font-family: "微软雅黑";
 }
 
@@ -51,6 +51,6 @@
 }
 
 .row img{
-	width:2.6em;
+	width: 2.6em;
 }
 

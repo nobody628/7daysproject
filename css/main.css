@@ -1,21 +1,19 @@
 /*标签设置*/
 .btn-primary {
-    background-color: #00FAA5;  /*标签填充色*/
-    border-color: #00FAA5;  /*标签边框色*/
-    height:auto;  /*标签高度*/
-    font-size: auto;  /*标签中文字字体*/
-    color:black;  /*标签中文字颜色*/
+    background-color: #00FAA5;  
+    border-color: #00FAA5;  
+    height:auto; 
+    font-size: auto; 
+    color:black;  
 }
 
 /*bootstrap中巨幕的自定义设置*/
 .jumbotron{
-	background: url(../images/header.jpg);  /*插入背景图片*/
-	color: white;  /*文字颜色*/
-	/*以下为图片全屏设置*/
+	background: url(../images/header.jpg);  
+	color: white;  
 	background-size: cover;
  	background-position: center;
   	background-attachment: fixed;
-  	/*以上为图片全屏设置*/
   	margin-bottom:40px;
   	font-family: Microsoft YaHei;
   }
@@ -36,7 +34,7 @@
 }
 
 .blurb_title {
-	text-align:center;  /*文字居中*/
+	text-align:center;  
 	font-family: "微软雅黑";
 }
 
